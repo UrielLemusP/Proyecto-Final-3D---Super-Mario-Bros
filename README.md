@@ -56,5 +56,5 @@ Nota: Solo edita contenido dentro de la carpeta Assets/. Las demás carpetas las
 ✅ Música y efectos de sonido retro.
 
 ## 👤 Autor
-Desarrollado como parte de un proyecto educativo de visualización 3D en Python con OpenGL (Benemerita Universidad Autonoma de Puebla).
+Desarrollado como parte de un proyecto educativo de Mario Bros en Unity3D (Benemerita Universidad Autonoma de Puebla).
 
