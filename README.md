@@ -14,20 +14,15 @@ Este proyecto es una recreación inspirada en el clásico **Mario Bros**, desarr
 
 ## 🚀 Cómo clonar y ejecutar el proyecto
 
-> 💡 **No necesitas usar Git si no quieres. Puedes simplemente descargar y abrir el proyecto en Unity Hub.**
+> 💡 **Entra al link de DRIVE y Descarga Mario_Pro.zip**
 
-### Opción 1: Descargar el .zip
-1. Haz clic en el botón **"Code"** (arriba en GitHub) y selecciona **"Download ZIP"**.
-2. Extrae el archivo `.zip` en tu computadora.
-3. Abre **Unity Hub**.
-4. Haz clic en **"Add"** y selecciona la carpeta extraída del proyecto.
-5. Asegúrate de usar la versión **Unity 2021.3.45f1** para evitar problemas de compatibilidad.
-6. Abre el proyecto y presiona **Play** para comenzar a jugar (Si no pasa nada abajo em la derecha en PROJECT, click en Assets, luego toca mapa y doble click en 1-1).
-
-### Opción 2: Usar Git (opcional)
-
-git clone https://github.com/tu-usuario/mario-bros-unity.git
-
+### Despues de Descargar el .zip
+1. Extrae el archivo `.zip` en tu computadora.
+2. Abre **Unity Hub**.
+3. Haz clic en **"Add"** y selecciona la carpeta extraída del proyecto (Mario_Proyecto).
+4. Asegúrate de usar la versión **Unity 2021.3.45f1** para evitar problemas de compatibilidad.
+5. Abre el proyecto y presiona **Play** para comenzar a jugar (Si no pasa nada abajo em la derecha en PROJECT, click en Assets, luego toca mapa y doble click en 1-1).
+6. 
 ## 📁 Estructura General del Proyecto
 Proyecto_Mario/
 ├── .vscode/              # Configuraciones del editor (opcional)
