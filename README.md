@@ -1,4 +1,4 @@
-# 🎮 Mario Bros Clone - Unity Project
+# 🎮 Mario Bros - Unity Project
 
 Este proyecto es una recreación inspirada en el clásico **Mario Bros**, desarrollado con **Unity** y **C#**. Incluye la construcción de un nivel jugable con elementos clásicos como colisiones precisas, movimientos fluidos, power-ups, un menú interactivo, un mapa secreto oculto, y una variedad de sprites animados.
 
