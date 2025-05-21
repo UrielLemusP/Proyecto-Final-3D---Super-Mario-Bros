@@ -55,6 +55,10 @@ Nota: Solo edita contenido dentro de la carpeta Assets/. Las demás carpetas las
 
 ✅ Música y efectos de sonido retro.
 
+## VIDEO EXPLICATIVO: 
+
+https://youtu.be/dv8prgKSTAA?si=nv2VpA-K9kze9Jwg
+
 ## 👤 Autor
 Desarrollado como parte de un proyecto educativo de Mario Bros en Unity3D (Benemerita Universidad Autonoma de Puebla).
 
