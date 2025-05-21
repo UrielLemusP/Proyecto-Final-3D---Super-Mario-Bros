@@ -55,5 +55,6 @@ Nota: Solo edita contenido dentro de la carpeta Assets/. Las demás carpetas las
 
 ✅ Música y efectos de sonido retro.
 
-📄 Licencia
-Este proyecto es solo con fines educativos. Todos los recursos gráficos y de sonido son usados con fines de aprendizaje y no para distribución comercial.
+## 👤 Autor
+Desarrollado como parte de un proyecto educativo de visualización 3D en Python con OpenGL (Benemerita Universidad Autonoma de Puebla).
+
