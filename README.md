@@ -22,7 +22,7 @@ Este proyecto es una recreación inspirada en el clásico **Mario Bros**, desarr
 3. Abre **Unity Hub**.
 4. Haz clic en **"Add"** y selecciona la carpeta extraída del proyecto.
 5. Asegúrate de usar la versión **Unity 2021.3.45f1** para evitar problemas de compatibilidad.
-6. Abre el proyecto y presiona **Play** para comenzar a jugar.
+6. Abre el proyecto y presiona **Play** para comenzar a jugar (Si no pasa nada abajo em la derecha en PROJECT, click en Assets, luego toca mapa y doble click en 1-1).
 
 ### Opción 2: Usar Git (opcional)
 
